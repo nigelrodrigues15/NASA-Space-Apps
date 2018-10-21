@@ -1134,7 +1134,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg3.jpg");
+			background-image: url("https://www.sciencedaily.com/images/2013/11/131122103940_1_900x600.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -1526,7 +1526,7 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
-			background-color: rgba(40, 60, 46, 0.5);
+			background-color: rgba(81, 100, 121, 0.5);
 			border-radius: 4px;
 			opacity: 0;
 		}
