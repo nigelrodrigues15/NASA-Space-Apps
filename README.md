@@ -1,1 +1,2 @@
 # NASA-Space-Apps
+Errors
