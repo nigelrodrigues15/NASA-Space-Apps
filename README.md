@@ -3,4 +3,4 @@
 https://nigelrodrigues15.github.io/NASA-Space-Apps/#
 
 # Information
-Project part of [NASA's space apps challenge](https://2018.spaceappschallenge.org/)
+Project part of [NASA](https://2018.spaceappschallenge.org/) and [CSA's](http://www.asc-csa.gc.ca/eng/events/2018/space-apps-citizen-scientist.asp) space apps challenge
