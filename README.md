@@ -8,7 +8,7 @@ Project part of [NASA](https://2018.spaceappschallenge.org/) and [CSA's](http://
 ## Screenshots
 
 ## Function
-
+To show climate science data in a modern and user friendly way to the general public. 
 
 # Usage
 *  `Download` or `Clone` this repository
