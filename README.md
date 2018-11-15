@@ -7,6 +7,7 @@ Project part of [NASA](https://2018.spaceappschallenge.org/) and [CSA's](http://
 
 ## Screenshots
 ![Screeenshot](https://github.com/nigelrodrigues15/NASA-Space-Apps/blob/master/images/SS1.PNG)
+![Screeenshot](https://github.com/nigelrodrigues15/NASA-Space-Apps/blob/master/images/SS2.PNG)
 
 ## Function
 To show climate science data in a modern and user friendly way to the general public. 
