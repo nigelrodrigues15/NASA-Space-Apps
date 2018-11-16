@@ -7,6 +7,8 @@ Project part of [NASA](https://2018.spaceappschallenge.org/) and [CSA's](http://
 
 ## Screenshots
 ![Screeenshot](https://github.com/nigelrodrigues15/NASA-Space-Apps/blob/master/images/SS1.PNG)
+The above image serves to explain the role of this specific green house gas in climate change, along with a gif of weather changes over time, for illustration purposes.
+
 ![Screeenshot](https://github.com/nigelrodrigues15/NASA-Space-Apps/blob/master/images/SS2.PNG)
 ![Screeenshot](https://github.com/nigelrodrigues15/NASA-Space-Apps/blob/master/images/SS4.PNG)
 
