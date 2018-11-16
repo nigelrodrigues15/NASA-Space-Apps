@@ -10,7 +10,7 @@ Project part of [NASA](https://2018.spaceappschallenge.org/) and [CSA's](http://
 The above image is a `user-friendly` landing page with a `modern UI` and animations, so that users will feel comfortable entering the site and exporing more aspects of it. 
 
 ![Screeenshot](https://github.com/nigelrodrigues15/NASA-Space-Apps/blob/master/images/SS2.PNG)
-The above image serves to explain the role of a particular green house gas in climate change, along with a gif of weather changes over time, for illustration purposes.
+The above image serves to explain the role of a particular green house gas in climate change, along with a `gif` of weather changes over time, for illustration purposes.
 
 ![Screeenshot](https://github.com/nigelrodrigues15/NASA-Space-Apps/blob/master/images/SS4.PNG)
 The above image shows a user hovering over a province (Ontario), and upon clicking can view more information regarding the impace of climate change on the province/city as well as the province/city's contribution to climate change. 
