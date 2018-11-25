@@ -22,3 +22,5 @@ To show climate science data in a modern and user friendly way to the general pu
 # Usage
 *  `Download` or `Clone` this repository
 *   Open `index.html` using a browser
+
+# Concerns and Issues
