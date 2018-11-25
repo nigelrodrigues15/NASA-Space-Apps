@@ -17,7 +17,7 @@ The above image serves to explain the role of a particular green house gas in cl
 The above image shows a user `hoverin`g over a province (Ontario), and upon clicking can view more information regarding the impact of climate change on the province/city as well as the province/city's contribution to climate change. 
 
 ## Main Idea / Function of this Webpage
-To show climate science data in a modern and user friendly way to the general public. The current webpages found on NASA and CSA's webage that holds climate science data looks extremely outdated. 
+To show climate science data in a modern and user friendly way to the general public. The current webpages found on NASA and CSA's webage that holds climate science data looks extremely outdated. There are significant recent strides made in NASA's webpage to promote climate change in a more user-friendly fashion. 
 
 # Usage
 *  `Download` or `Clone` this repository
