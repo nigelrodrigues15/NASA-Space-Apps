@@ -24,3 +24,4 @@ To show climate science data in a modern and user friendly way to the general pu
 *   Open `index.html` using a browser
 
 # Concerns and Issues
+* There was trouble parsing the data properly from the CSA dataset.
