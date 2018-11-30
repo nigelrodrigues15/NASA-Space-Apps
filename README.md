@@ -24,6 +24,6 @@ To show climate science data in a modern and user friendly way to the general pu
 *   Open `index.html` using a browser
 
 # Concerns and Issues
-* There was trouble parsing the data properly from the CSA dataset.
+* There was trouble parsing the data properly from the CSA dataset
 * ArcGIS/QGIS was unable to properly represent the data on a map
 * Used Python to get some information from `.ns` file to `.csv`
