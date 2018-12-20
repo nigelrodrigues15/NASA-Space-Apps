@@ -27,4 +27,4 @@ To show climate science data in a modern and user friendly way to the general pu
 * There was trouble parsing the data properly from the CSA dataset
 * ArcGIS/QGIS was unable to properly represent the data on a map
 * Used Python to get some information from `.ns` file to `.csv`
-* Mapbox
+* Mapbox 3D map visualization tool was not displaying data correctly
